@@ -143,7 +143,7 @@
                       <br>
                       <h2>  <b>General</b> </h2>
 
-                    <p>  Records received by the </b>KRAMAH SOFTWARE</b> from portal are subject to the same controls and uses as records collected by <b>KRAMAH SOFTWARE</b> are open to the public upon request unless otherwise specifically provided by law. You should check with the specific agency you are providing information to, to determine whether the information you provide them will be held in confidence or must be released upon request by a member of the public. </p>
+                    <p>  Records received by the <b>KRAMAH SOFTWARE</b> from portal are subject to the same controls and uses as records collected by <b>KRAMAH SOFTWARE</b> are open to the public upon request unless otherwise specifically provided by law. You should check with the specific agency you are providing information to, to determine whether the information you provide them will be held in confidence or must be released upon request by a member of the public. </p>
                       <br>
                       <h2> <b> Domain Information </b> </h2>
 
@@ -182,15 +182,7 @@
 
       </p>
                         <!-- End Slider 04 -->
-                    </ul>
-                </div>
-
-
-
-
-            </div>
-
-               </div>
+                  
                 </div>
            </div>
 
@@ -204,6 +196,8 @@
      <!-- FOOTER SECTION END-->
 
       <!--  Jquery Core Script -->
+</body>
+</html>
     <script src="assets/js/jquery-1.10.2.js"></script>
     <!--  Core Bootstrap Script -->
     <script src="assets/js/bootstrap.js"></script>
@@ -215,5 +209,4 @@
     <script src="assets/js/jquery.easing.min.js"></script>
     <!--  Custom Scripts -->
          <script src="assets/js/custom.js"></script>
-</body>
-</html>
+
