@@ -101,12 +101,12 @@
       <div class="dropdown-content">
           <a href="terms.php">TERMS & CONDITIONS</a>
           <a href="privacy.php">PRIVACY POLICY & DISCLAIMER</a>
-        <a href="">VERSION<br>1.0.9-uniaa</b></a>
+        <a href="">VERSION<br>1.0.9-uniaa</a>
         </div>
   </li>
 	<li><a href="../mainpage.html">LOGOUT</a></li>
                 </ul>
-                </ul>
+               
             </div>
 
         </div>
